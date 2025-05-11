@@ -1,7 +1,7 @@
 
-<br> -  [جلسه 01 - ](https://github.com/CodeCrafters-ir/agile_and_scrum/tree/main/session_01)
+<br> -  [جلسه 01 - مفدمه ](https://github.com/CodeCrafters-ir/agile_and_scrum/tree/main/session_01)
 
-<br> - [ جلسه 02 - ](https://github.com/CodeCrafters-ir/agile_and_scrum/tree/main/session_02)
+<br> - [ جلسه 02 - چارچوب اسکرام ](https://github.com/CodeCrafters-ir/agile_and_scrum/tree/main/session_02)
 
 <br> - [ جلسه 03 - ](https://github.com/CodeCrafters-ir/agile_and_scrum/tree/main/session_03)
 
